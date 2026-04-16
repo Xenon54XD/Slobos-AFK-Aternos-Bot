@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vtcolany.aternos.me",
-    "port": 27279,
+    "ip": "OldSoulLegacy.aternos.me",
+    "port": 40744,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "123"
     },
     "anti-afk": {
       "enabled": true,
